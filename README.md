@@ -88,14 +88,14 @@ ANN    CNN    RNN
 - Learning Paradigms
 - Applications of Deep Learning
 
-## 🔢 Mathematics for Deep Learning
+### 🔢 Mathematics for Deep Learning
 - Linear Algebra
 - Probability & Statistics
 - Calculus
 - Optimization Techniques
 - Gradient Descent
 
-## 🧠 Neural Networks
+### 🧠 Neural Networks
 - Perceptron
 - Artificial Neural Networks (ANN)
 - Multi-Layer Perceptron (MLP)
@@ -104,14 +104,14 @@ ANN    CNN    RNN
 - Backpropagation
 - Loss Functions
 
-## 🚀 Deep Neural Networks
+### 🚀 Deep Neural Networks
 - Weight Initialization
 - Batch Normalization
 - Regularization
 - Dropout
 - Hyperparameter Tuning
 
-## 👁️ Computer Vision
+### 👁️ Computer Vision
 - Image Processing Fundamentals
 - Convolutional Neural Networks (CNN)
 - Pooling Layers
@@ -125,20 +125,20 @@ ANN    CNN    RNN
 - Gated Recurrent Units (GRU)
 - Sequence Modeling
 
-## 📝 Natural Language Processing
+### 📝 Natural Language Processing
 - Text Preprocessing
 - Tokenization
 - Word Embeddings
 - Word2Vec
 - GloVe
 
-## 🎯 Attention Mechanism
+### 🎯 Attention Mechanism
 - Self-Attention
 - Query, Key, Value (QKV)
 - Scaled Dot-Product Attention
 - Multi-Head Attention
 
-## 🤖 Transformers
+### 🤖 Transformers
 - Transformer Architecture
 - Encoder-Decoder Architecture
 - Positional Encoding
@@ -157,7 +157,7 @@ Practical implementations and end-to-end Deep Learning projects demonstrating re
 
 ---
 
-## 👨‍💻 Author
+### 👨‍💻 Author
 
 <div align="center">
 
