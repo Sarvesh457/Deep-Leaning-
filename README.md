@@ -79,177 +79,97 @@ ANN    CNN    RNN
                ▼
       Large Language Models
 
-📚 Topics Covered
-1️⃣ Deep Learning Fundamentals
-Introduction to AI
-Machine Learning vs Deep Learning
-Neural Networks Overview
-Learning Paradigms
-Applications of Deep Learning
-2️⃣ Mathematics for Deep Learning
-Linear Algebra
-Probability & Statistics
-Calculus
-Optimization Techniques
-Gradient Descent
-3️⃣ Artificial Neural Networks (ANN)
-Perceptron
-Multi-Layer Perceptron
-Activation Functions
-Forward Propagation
-Backpropagation
-Loss Functions
-4️⃣ Deep Neural Networks
-Weight Initialization
-Batch Normalization
-Dropout
-Regularization
-Hyperparameter Tuning
-5️⃣ Computer Vision
-Image Processing
-Convolutional Neural Networks (CNN)
-Pooling Operations
-Transfer Learning
-Image Classification
-Object Detection
-6️⃣ Sequential Models
-Recurrent Neural Networks (RNN)
-Long Short-Term Memory (LSTM)
-Gated Recurrent Units (GRU)
-Sequence Modeling
-7️⃣ Natural Language Processing
-Text Preprocessing
-Tokenization
-Word Embeddings
-Word2Vec
-GloVe
-8️⃣ Attention Mechanism
-Self Attention
-Query, Key, Value (QKV)
-Scaled Dot Product Attention
-Multi-Head Attention
-9️⃣ Transformers
-Transformer Architecture
-Encoder
-Decoder
-Positional Encoding
-BERT
-GPT
-🔟 Large Language Models
-Prompt Engineering
-Fine-Tuning
-Retrieval-Augmented Generation (RAG)
-AI Agents
-Open Source LLMs
 
-Deep-Learning/
-│
-├── Fundamentals/
-│   ├── Notes
-│   └── Examples
-│
-├── Mathematics/
-│
-├── Neural-Networks/
-│
-├── CNN/
-│
-├── RNN/
-│
-├── LSTM/
-│
-├── NLP/
-│
-├── Attention-Mechanism/
-│
-├── Transformers/
-│
-├── LLMs/
-│
-├── Projects/
-│
-├── Datasets/
-│
-├── Resources/
-│
-└── README.md
+## 📚 Repository Contents
 
-| Technology   | Purpose                    |
-| ------------ | -------------------------- |
-| Python       | Programming Language       |
-| NumPy        | Numerical Computing        |
-| Pandas       | Data Analysis              |
-| Matplotlib   | Visualization              |
-| Scikit-Learn | Machine Learning           |
-| TensorFlow   | Deep Learning              |
-| Keras        | Neural Network Development |
-| PyTorch      | Research & Development     |
-| OpenCV       | Computer Vision            |
-| Hugging Face | Transformers & LLMs        |
+### 📖 Fundamentals
+- Introduction to Artificial Intelligence
+- Machine Learning vs Deep Learning
+- Learning Paradigms
+- Applications of Deep Learning
 
+### 🔢 Mathematics for Deep Learning
+- Linear Algebra
+- Probability & Statistics
+- Calculus
+- Optimization Techniques
+- Gradient Descent
 
-Clone Repository
-git clone https://github.com/Sarvesh457/Deep-Leaning.git
+### 🧠 Neural Networks
+- Perceptron
+- Artificial Neural Networks (ANN)
+- Multi-Layer Perceptron (MLP)
+- Activation Functions
+- Forward Propagation
+- Backpropagation
+- Loss Functions
 
-Navigate to Project
-cd Deep-Leaning
+### 🚀 Deep Neural Networks
+- Weight Initialization
+- Batch Normalization
+- Regularization
+- Dropout
+- Hyperparameter Tuning
 
-Create Virtual Environment
-python -m venv venv
+### 👁️ Computer Vision
+- Image Processing Fundamentals
+- Convolutional Neural Networks (CNN)
+- Pooling Layers
+- Transfer Learning
+- Image Classification
+- Object Detection
 
-Activate Environment
-Windows
+### 🔄 Sequential Models
+- Recurrent Neural Networks (RNN)
+- Long Short-Term Memory (LSTM)
+- Gated Recurrent Units (GRU)
+- Sequence Modeling
 
-venv\Scripts\activate
-Linux / macOS
-source venv/bin/activate
+### 📝 Natural Language Processing
+- Text Preprocessing
+- Tokenization
+- Word Embeddings
+- Word2Vec
+- GloVe
 
-Install Dependencies
-pip install -r requirements.txt
+### 🎯 Attention Mechanism
+- Self-Attention
+- Query, Key, Value (QKV)
+- Scaled Dot-Product Attention
+- Multi-Head Attention
 
-📈 Applications of Deep Learning
-Computer Vision
-Natural Language Processing
-Recommendation Systems
-Chatbots
-Medical Diagnosis
-Fraud Detection
-Speech Recognition
-Autonomous Vehicles
-Generative AI
-Robotics
-🌟 Future Enhancements
- Hands-on Deep Learning Projects
- Transformer Implementations from Scratch
- GPT Architecture Walkthrough
- RAG Pipeline Examples
- Fine-Tuning LLMs
- MLOps Integration
- Deployment Examples
-🤝 Contributing
+### 🤖 Transformers
+- Transformer Architecture
+- Encoder-Decoder Architecture
+- Positional Encoding
+- BERT
+- GPT
 
-Contributions are welcome.
+### 🌟 Large Language Models
+- Prompt Engineering
+- Fine-Tuning
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Open-Source LLMs
 
-Fork the repository
-Create a feature branch
-Commit your changes
-Push to your branch
-Create a Pull Request
-👨‍💻 Author
-Sarvesh Mahajan
+### 💼 Projects
+Practical implementations and end-to-end Deep Learning projects demonstrating real-world applications.
 
-Computer Science Student | AI & Machine Learning Enthusiast
+---
 
-GitHub: https://github.com/Sarvesh457
-
-LinkedIn: https://www.linkedin.com/in/sarvesh-mahajan-a192492b4/
-
-⭐ Support
-
-If this repository helped you learn something new, consider giving it a Star ⭐.
-
-Your support motivates future improvements and content additions.
+## 👨‍💻 Author
 
 <div align="center">
-"Deep Learning is not about memorizing models; it's about understanding how machines learn."
-</div> ```
+
+### Sarvesh Mahajan
+
+**Computer Science Student • AI/ML Enthusiast • Deep Learning Learner**
+
+Building projects and sharing knowledge in:
+Deep Learning • NLP • Transformers • Large Language Models • Generative AI
+
+[GitHub](https://github.com/Sarvesh457) • [LinkedIn](https://www.linkedin.com/in/sarvesh-mahajan-a192492b4/)
+
+</div>
+
+---
