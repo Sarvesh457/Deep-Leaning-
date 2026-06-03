@@ -82,20 +82,20 @@ ANN    CNN    RNN
 
 ## 📚 Repository Contents
 
-### 📖 Fundamentals
+## 📖 Fundamentals
 - Introduction to Artificial Intelligence
 - Machine Learning vs Deep Learning
 - Learning Paradigms
 - Applications of Deep Learning
 
-### 🔢 Mathematics for Deep Learning
+## 🔢 Mathematics for Deep Learning
 - Linear Algebra
 - Probability & Statistics
 - Calculus
 - Optimization Techniques
 - Gradient Descent
 
-### 🧠 Neural Networks
+## 🧠 Neural Networks
 - Perceptron
 - Artificial Neural Networks (ANN)
 - Multi-Layer Perceptron (MLP)
@@ -104,14 +104,14 @@ ANN    CNN    RNN
 - Backpropagation
 - Loss Functions
 
-### 🚀 Deep Neural Networks
+## 🚀 Deep Neural Networks
 - Weight Initialization
 - Batch Normalization
 - Regularization
 - Dropout
 - Hyperparameter Tuning
 
-### 👁️ Computer Vision
+## 👁️ Computer Vision
 - Image Processing Fundamentals
 - Convolutional Neural Networks (CNN)
 - Pooling Layers
@@ -119,26 +119,26 @@ ANN    CNN    RNN
 - Image Classification
 - Object Detection
 
-### 🔄 Sequential Models
+## 🔄 Sequential Models
 - Recurrent Neural Networks (RNN)
 - Long Short-Term Memory (LSTM)
 - Gated Recurrent Units (GRU)
 - Sequence Modeling
 
-### 📝 Natural Language Processing
+## 📝 Natural Language Processing
 - Text Preprocessing
 - Tokenization
 - Word Embeddings
 - Word2Vec
 - GloVe
 
-### 🎯 Attention Mechanism
+## 🎯 Attention Mechanism
 - Self-Attention
 - Query, Key, Value (QKV)
 - Scaled Dot-Product Attention
 - Multi-Head Attention
 
-### 🤖 Transformers
+## 🤖 Transformers
 - Transformer Architecture
 - Encoder-Decoder Architecture
 - Positional Encoding
@@ -152,7 +152,7 @@ ANN    CNN    RNN
 - AI Agents
 - Open-Source LLMs
 
-### 💼 Projects
+## 💼 Projects
 Practical implementations and end-to-end Deep Learning projects demonstrating real-world applications.
 
 ---
@@ -161,7 +161,7 @@ Practical implementations and end-to-end Deep Learning projects demonstrating re
 
 <div align="center">
 
-### Sarvesh Mahajan
+## Sarvesh Mahajan
 
 **Computer Science Student • AI/ML Enthusiast • Deep Learning Learner**
 
